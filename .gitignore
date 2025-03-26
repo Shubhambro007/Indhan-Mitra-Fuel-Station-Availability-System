@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+/caches/
+/wrapper/
+*.jar
+*.zip
+.gradle/
