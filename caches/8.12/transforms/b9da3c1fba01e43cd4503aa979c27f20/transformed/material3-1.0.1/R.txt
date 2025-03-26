@@ -1,3 +1,0 @@
-int string collapsed 0x0
-int string dialog 0x0
-int string expanded 0x0

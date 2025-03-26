@@ -1,4 +1,0 @@
-androidx.compose.material3
-string collapsed
-string dialog
-string expanded
