@@ -120,7 +120,10 @@ The app provides a simple authentication system with:
 - Responsive design with Jetpack Compose
 - Smooth animations
 - Expandable/collapsible information panels
-- 
+
+## Screenshot
+![fuelstats](https://github.com/user-attachments/assets/882d63b8-b2c9-404b-9983-99c715e773a2)
+
 
 ## 🚧 Upcoming Improvements
 
