@@ -122,8 +122,9 @@ The app provides a simple authentication system with:
 - Expandable/collapsible information panels
 
 ## Screenshot
-![fuelstats](https://github.com/user-attachments/assets/882d63b8-b2c9-404b-9983-99c715e773a2)
-
+![mainactivity](https://github.com/user-attachments/assets/b60c40b1-5318-4acf-af37-39389b173a0d)
+![mainactivity](https://github.com/user-attachments/assets/799e240f-16c9-44dd-94c7-d7d7fd4b9b12)
+![navigation](https://github.com/user-attachments/assets/786875a8-b274-4b19-9b7e-3b70c67f8613)
 
 ## 🚧 Upcoming Improvements
 
